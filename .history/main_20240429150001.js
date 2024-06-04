@@ -1,0 +1,3 @@
+var listIcons = document.querySelectorAll[2];
+
+listIcons.sty
